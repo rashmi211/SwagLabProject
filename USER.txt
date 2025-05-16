@@ -3,3 +3,8 @@ USER2 is created
 USER3 is created
 USER4 is created
 USER5 is created
+USER6 is created
+USER7 is created
+USER8 is created
+USER9 is created
+USER10 is created
